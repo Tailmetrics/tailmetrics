@@ -1,0 +1,19 @@
+{
+  "name": "tailmetrics",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tailmetrics/tailmetrics.git"
+  },
+  "author": "Tailmetrics",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tailmetrics/tailmetrics/issues"
+  },
+  "homepage": "https://github.com/Tailmetrics/tailmetrics#readme"
+}
