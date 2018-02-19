@@ -1,6 +1,6 @@
 {
   "name": "tailmetrics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tailmetrics/tailmetrics.git"
+    "url": "git+https://github.com/Tailmetrics/tailmetrics-js.git"
   },
   "author": "Tailmetrics",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tailmetrics/tailmetrics/issues"
+    "url": "https://github.com/Tailmetrics/tailmetrics-js/issues"
   },
-  "homepage": "https://github.com/Tailmetrics/tailmetrics#readme"
+  "homepage": "https://github.com/Tailmetrics/tailmetrics-js#readme"
 }
